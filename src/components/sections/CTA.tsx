@@ -35,7 +35,7 @@ export const CTA = () => {
               <span className="text-emerald-500">Diego Luna</span> — Director de IA
             </p>
             <p className="text-sm text-muted-foreground">
-              losautomatasperu@gmail.com
+              diego.luna@optmedialatam.com
             </p>
           </div>
         </motion.div>
