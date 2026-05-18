@@ -26,7 +26,7 @@ export const Footer = () => {
               © {new Date().getFullYear()} Los Autómatas × OPT MEDIA LATAM
             </p>
             <p className="text-xs text-muted-foreground/40 mt-1">
-              Informe de Oportunidades de Transformacion Digital
+              Informe de Oportunidades con Inteligencia Artificial
             </p>
           </div>
         </div>

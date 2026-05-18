@@ -10,7 +10,7 @@ export const SolutionsGrid = () => {
           Oportunidades Identificadas
         </span>
         <h2 className="section-title">
-          Areas de <span className="text-gradient-green">Transformacion</span>
+          Areas de <span className="text-gradient-green">Innovacion con IA</span>
         </h2>
         <p className="section-subtitle text-center mx-auto mt-6">
           Seis areas clave con soluciones priorizadas de automatizacion e IA,

@@ -14,7 +14,7 @@ export const TeamGrid = () => {
             Equipo <span className="text-gradient-green">OPT MEDIA LATAM</span>
           </h2>
           <p className="section-subtitle text-center mx-auto mt-6">
-            Conoce a los profesionales que impulsan OPT MEDIA LATAM. La transformacion digital
+            Conoce a los profesionales que impulsan OPT MEDIA LATAM. La innovacion con IA
             se construye con las personas, potenciando su talento con tecnologia.
           </p>
         </div>

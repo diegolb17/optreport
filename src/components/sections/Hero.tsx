@@ -62,7 +62,7 @@ export const Hero = () => {
             transition={{ duration: 0.6, delay: 0.45 }}
             className="block text-foreground"
           >
-            de Transformación Digital
+            con Inteligencia Artificial
           </motion.span>
         </h1>
 
@@ -83,8 +83,8 @@ export const Hero = () => {
           transition={{ duration: 0.6, delay: 0.65 }}
           className="text-base text-muted-foreground/70 max-w-xl mx-auto mb-12 leading-relaxed"
         >
-          Seis áreas de oportunidad identificadas para optimizar procesos mediante automatización
-          e inteligencia artificial en todas las áreas de OPT MEDIA LATAM.
+          Seis áreas de oportunidad identificadas para optimizar procesos mediante inteligencia
+          artificial y automatización en todas las áreas de OPT MEDIA LATAM.
         </motion.p>
       </div>
 
